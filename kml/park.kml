@@ -35,8 +35,8 @@
 		<open>1</open>
 		<Placemark>
 			<name>H.L.N.A SKATE PARK（H.L.N.A スケートパーク）</name>
+			<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/hlnaskate.png?raw=true">
 			<LookAt>
-				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/hlnaskate.png?raw=true">
 				<longitude>139.7759542446917</longitude>
 				<latitude>35.62541682346928</latitude>
 				<altitude>0</altitude>
@@ -54,8 +54,8 @@
 		<Placemark>
 			<name>TRINITY B3 PARK
 </name>
-			<LookAt>
 				<img src ="https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/trinityb3skate.png?raw=true">
+			<LookAt>
 				<longitude>139.6792546211628</longitude>
 				<latitude>35.79400552850554</latitude>
 				<altitude>0</altitude>
@@ -72,8 +72,8 @@
 		</Placemark>
 		<Placemark>
 			<name>戸吹スポーツ公園スケートパーク</name>
+							<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/tobikiskate.jpg?raw=true">
 			<LookAt>
-				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/tobikiskate.jpg?raw=true">
 				<longitude>139.2900708006118</longitude>
 				<latitude>35.70078170303613</latitude>
 				<altitude>0</altitude>
@@ -90,8 +90,8 @@
 		</Placemark>
 		<Placemark>
 			<name>世田谷公園SLパーク</name>
+			<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/setagayaslskatye.png?raw=true">
 			<LookAt>
-				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/setagayaslskatye.png?raw=true">
 				<longitude>139.6784402665585</longitude>
 				<latitude>35.64414762145763</latitude>
 				<altitude>0</altitude>
@@ -108,8 +108,8 @@
 		</Placemark>
 		<Placemark>
 			<name>たちかわ中央公園　スケートパーク</name>
+			<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/tatikawakouen.jpg?raw=true" >
 			<LookAt>
-				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/tatikawakouen.jpg?raw=true" >
 				<longitude>139.4078878968008</longitude>
 				<latitude>35.70335989901285</latitude>
 				<altitude>0</altitude>
@@ -126,8 +126,8 @@
 		</Placemark>
 		<Placemark>
 			<name>稲城北緑地公園タマリパーク</name>
+			<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/inagi01.jpg?raw=true">
 			<LookAt>
-				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/inagi01.jpg?raw=true">
 				<longitude>139.5064306794029</longitude>
 				<latitude>35.64980636551301</latitude>
 				<altitude>0</altitude>
@@ -144,8 +144,8 @@
 		</Placemark>
 		<Placemark>
 			<name>Analog Bowl Park（アナログ）</name>
+							<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/analog_bowl.jpg?raw=true">
 			<LookAt>
-				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/analog_bowl.jpg?raw=true">
 				<longitude>139.69487695071</longitude>
 				<latitude>35.66416263267056</latitude>
 				<altitude>0</altitude>
@@ -162,8 +162,8 @@
 		</Placemark>
 		<Placemark>
 			<name>西東京いこいの森公園スケートパーク</name>
+			<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/nishitokyoikoiskate.jpg?raw=true">
 			<LookAt>
-				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/nishitokyoikoiskate.jpg?raw=true">
 				<longitude>139.5397193046587</longitude>
 				<latitude>35.74042553390624</latitude>
 				<altitude>0</altitude>
@@ -180,8 +180,8 @@
 		</Placemark>
 		<Placemark>
 			<name>OASIS24 MIZUHO BASE</name>
+			<img src= "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/24mizuhobase.jpg?raw=true">
 			<LookAt>
-				<img src= "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/24mizuhobase.jpg?raw=true">
 				<longitude>139.3376169511502</longitude>
 				<latitude>35.7738490235744</latitude>
 				<altitude>0</altitude>
@@ -198,8 +198,8 @@
 		</Placemark>
 		<Placemark>
 			<name>駒沢オリンピック公園　ストリートスポーツ広場</name>
+							<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/komazawa.png?raw=true">
 			<LookAt>
-				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/komazawa.png?raw=true">
 				<longitude>139.6600507478047</longitude>
 				<latitude>35.62450974926745</latitude>
 				<altitude>0</altitude>
@@ -216,8 +216,8 @@
 		</Placemark>
 		<Placemark>
 			<name>東京都立城南島海浜公園スケボー広場</name>
+			<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/johnanjima04.jpg?raw=true">
 			<LookAt>
-				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/johnanjima04.jpg?raw=true">
 				<longitude>139.7797116024507</longitude>
 				<latitude>35.58435829745685</latitude>
 				<altitude>0</altitude>
@@ -234,8 +234,8 @@
 		</Placemark>
 		<Placemark>
 			<name>東京ドーム ローラースケートアリーナ</name>
+			<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/tokyodomeskate.jpg?raw=true">
 			<LookAt>
-				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/tokyodomeskate.jpg?raw=true">
 				<longitude>139.7533531993703</longitude>
 				<latitude>35.70467089735072</latitude>
 				<altitude>0</altitude>
@@ -252,8 +252,8 @@
 		</Placemark>
 		<Placemark>
 			<name>武蔵野ストリートスポーツ広場</name>
+			<img src ="https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/musashinoskate.png?raw=true">
 			<LookAt>
-				<img src ="https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/musashinoskate.png?raw=true">
 				<longitude>139.5677034077043</longitude>
 				<latitude>35.71867130352714</latitude>
 				<altitude>0</altitude>
@@ -270,8 +270,8 @@
 		</Placemark>
 		<Placemark>
 			<name>夕凪橋際遊び場‎（ゆうなぎばしぎわあそびば）</name>
+			<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/yuunagaibashiskate.jpg?raw=true">
 			<LookAt>
-				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/yuunagaibashiskate.jpg?raw=true">
 				<longitude>139.7502876285423</longitude>
 				<latitude>35.63911103939584</latitude>
 				<altitude>0</altitude>
@@ -288,8 +288,8 @@
 		</Placemark>
 		<Placemark>
 			<name>ランプハウス東京</name>
+			<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/ranmphousetokyo.jpg?raw=true">
 			<LookAt>
-				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/ranmphousetokyo.jpg?raw=true">
 				<longitude>139.3413398798487</longitude>
 				<latitude>35.7650451782721</latitude>
 				<altitude>0</altitude>
@@ -306,8 +306,8 @@
 		</Placemark>
 		<Placemark>
 			<name>Skate Park MAP’S TOKYO（マップス東京）</name>
+			<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/mapstpkyo1.png?raw=true" >
 			<LookAt>
-				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/mapstpkyo1.png?raw=true" >
 				<longitude>139.8100454199649</longitude>
 				<latitude>35.74230112443208</latitude>
 				<altitude>0</altitude>
@@ -324,8 +324,8 @@
 		</Placemark>
 		<Placemark>
 			<name>アメージングスクエア跡地</name>
+			<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/ameajingskate.jpg?raw=true" >
 			<LookAt>
-				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/ameajingskate.jpg?raw=true" >
 				<longitude>139.6075000386282</longitude>
 				<latitude>35.66104735804207</latitude>
 				<altitude>0</altitude>
@@ -342,8 +342,8 @@
 		</Placemark>
 		<Placemark>
 			<name>宮下公園スケートパーク</name>
+			<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/miyashitaskate.png?raw=true" >
 			<LookAt>
-				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/miyashitaskate.png?raw=true" >
 				<longitude>139.701659964261</longitude>
 				<latitude>35.66320433217348</latitude>
 				<altitude>0</altitude>
@@ -360,8 +360,8 @@
 		</Placemark>
 		<Placemark>
 			<name>祖師谷公園</name>
+			<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/soshigayaskate.jpg?raw=true" >
 			<LookAt>
-				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/soshigayaskate.jpg?raw=true" >
 				<longitude>139.5993042002742</longitude>
 				<latitude>35.65429499772315</latitude>
 				<altitude>0</altitude>
