@@ -197,7 +197,7 @@
 		</Placemark>
 		<Placemark>
 			<name>駒沢オリンピック公園　ストリートスポーツ広場</name>
-			<description><![CDATA[img src = "https://github.com/takahiro0805/Sk8parkmap/blob/gh-pages/photo/komazawa.png?raw=true">]]></description>
+			<description><![CDATA[<img src = "https://github.com/takahiro0805/Sk8parkmap/blob/gh-pages/photo/komazawa.png?raw=true">]]></description>
 			<LookAt>
 				<longitude>139.6600507478047</longitude>
 				<latitude>35.62450974926745</latitude>
@@ -215,7 +215,7 @@
 		</Placemark>
 		<Placemark>
 			<name>東京都立城南島海浜公園スケボー広場</name>
-			<description><![CDATA[img src = "https://github.com/takahiro0805/Sk8parkmap/blob/gh-pages/photo/johnanjima04.jpg?raw=true">]]></description>
+			<description><![CDATA[<img src = "https://github.com/takahiro0805/Sk8parkmap/blob/gh-pages/photo/johnanjima04.jpg?raw=true">]]></description>
 			<LookAt>
 				<longitude>139.7797116024507</longitude>
 				<latitude>35.58435829745685</latitude>
