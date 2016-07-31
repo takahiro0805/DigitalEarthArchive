@@ -50,6 +50,9 @@
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>139.7759951441697,35.62520395152716,0</coordinates>
 			</Point>
+						<Icon>
+				<href>https://github.com/takahiro0805/Sk8parkmap/blob/gh-pages/photo/i.gif?raw=true</href>
+			</Icon>
 		</Placemark>
 		<Placemark>
 			<name>TRINITY B3 PARK</name>
