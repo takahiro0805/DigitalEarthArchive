@@ -35,7 +35,7 @@
 		<open>1</open>
 		<Placemark>
 			<name>H.L.N.A SKATE PARK（H.L.N.A スケートパーク）</name>
-			<description><![CDATA[<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/hlnaskate.png?raw=true">]]></description>
+			<description><![CDATA[<img src = "https://github.com/takahiro0805/Sk8parkmap/blob/gh-pages/photo/hlnaskate.png?raw=true">]]></description>
 			<LookAt>
 				<longitude>139.7759542446917</longitude>
 				<latitude>35.62541682346928</latitude>
@@ -53,7 +53,7 @@
 		</Placemark>
 		<Placemark>
 			<name>TRINITY B3 PARK</name>
-<description><![CDATA[<img src ="https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/trinityb3skate.png?raw=true">]]></description>
+<description><![CDATA[<img src ="https://github.com/takahiro0805/Sk8parkmap/blob/gh-pages/photo/trinityb3skate.png?raw=true">]]></description>
 			<LookAt>
 				<longitude>139.6792546211628</longitude>
 				<latitude>35.79400552850554</latitude>
@@ -71,7 +71,7 @@
 		</Placemark>
 		<Placemark>
 			<name>戸吹スポーツ公園スケートパーク</name>
-			<description><![CDATA[<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/tobikiskate.jpg?raw=true">]]></description>
+			<description><![CDATA[<img src = "https://github.com/takahiro0805/Sk8parkmap/blob/gh-pages/photo/tobikiskate.jpg?raw=true">]]></description>
 			<LookAt>
 				<longitude>139.2900708006118</longitude>
 				<latitude>35.70078170303613</latitude>
@@ -89,7 +89,7 @@
 		</Placemark>
 		<Placemark>
 			<name>世田谷公園SLパーク</name>
-			<description><![CDATA[<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/setagayaslskatye.png?raw=true">]]></description>
+			<description><![CDATA[<img src = "https://github.com/takahiro0805/Sk8parkmap/blob/gh-pages/photo/setagayaslskatye.png?raw=true">]]></description>
 			<LookAt>
 				<longitude>139.6784402665585</longitude>
 				<latitude>35.64414762145763</latitude>
@@ -107,7 +107,7 @@
 		</Placemark>
 		<Placemark>
 			<name>たちかわ中央公園　スケートパーク</name>
-			<description><![CDATA[<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/tatikawakouen.jpg?raw=true" >]]></description>
+			<description><![CDATA[<img src = "https://github.com/takahiro0805/Sk8parkmap/blob/gh-pages/photo/tatikawakouen.jpg?raw=true" >]]></description>
 			<LookAt>
 				<longitude>139.4078878968008</longitude>
 				<latitude>35.70335989901285</latitude>
@@ -125,7 +125,7 @@
 		</Placemark>
 		<Placemark>
 			<name>稲城北緑地公園タマリパーク</name>
-			<description><![CDATA[<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/inagi01.jpg?raw=true">]]></description>
+			<description><![CDATA[<img src = "https://github.com/takahiro0805/Sk8parkmap/blob/gh-pages/photo/inagi01.jpg?raw=true">]]></description>
 			<LookAt>
 				<longitude>139.5064306794029</longitude>
 				<latitude>35.64980636551301</latitude>
@@ -143,7 +143,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Analog Bowl Park（アナログ）</name>
-			<description><![CDATA[<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/analog_bowl.jpg?raw=true">]]></description>
+			<description><![CDATA[<img src = "https://github.com/takahiro0805/Sk8parkmap/blob/gh-pages/photo/analog_bowl.jpg?raw=true">]]></description>
 			<LookAt>
 				<longitude>139.69487695071</longitude>
 				<latitude>35.66416263267056</latitude>
@@ -161,7 +161,7 @@
 		</Placemark>
 		<Placemark>
 			<name>西東京いこいの森公園スケートパーク</name>
-			<description><![CDATA[<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/nishitokyoikoiskate.jpg?raw=true">]]></description>
+			<description><![CDATA[<img src = "https://github.com/takahiro0805/Sk8parkmap/blob/gh-pages/photo/nishitokyoikoiskate.jpg?raw=true">]]></description>
 			<LookAt>
 				<longitude>139.5397193046587</longitude>
 				<latitude>35.74042553390624</latitude>
@@ -179,7 +179,7 @@
 		</Placemark>
 		<Placemark>
 			<name>OASIS24 MIZUHO BASE</name>
-			<description><![CDATA[<img src= "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/24mizuhobase.jpg?raw=true">]]></description>
+			<description><![CDATA[<img src= "https://github.com/takahiro0805/Sk8parkmap/blob/gh-pages/photo/24mizuhobase.jpg?raw=true">]]></description>
 			<LookAt>
 				<longitude>139.3376169511502</longitude>
 				<latitude>35.7738490235744</latitude>
@@ -197,7 +197,7 @@
 		</Placemark>
 		<Placemark>
 			<name>駒沢オリンピック公園　ストリートスポーツ広場</name>
-			<description><![CDATA[img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/komazawa.png?raw=true">]]></description>
+			<description><![CDATA[img src = "https://github.com/takahiro0805/Sk8parkmap/blob/gh-pages/photo/komazawa.png?raw=true">]]></description>
 			<LookAt>
 				<longitude>139.6600507478047</longitude>
 				<latitude>35.62450974926745</latitude>
@@ -215,7 +215,7 @@
 		</Placemark>
 		<Placemark>
 			<name>東京都立城南島海浜公園スケボー広場</name>
-			<description><![CDATA[img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/johnanjima04.jpg?raw=true">]]></description>
+			<description><![CDATA[img src = "https://github.com/takahiro0805/Sk8parkmap/blob/gh-pages/photo/johnanjima04.jpg?raw=true">]]></description>
 			<LookAt>
 				<longitude>139.7797116024507</longitude>
 				<latitude>35.58435829745685</latitude>
@@ -233,7 +233,7 @@
 		</Placemark>
 		<Placemark>
 			<name>武蔵野ストリートスポーツ広場</name>
-			<description><![CDATA[<img src ="https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/musashinoskate.png?raw=true">]]></description>
+			<description><![CDATA[<img src ="https://github.com/takahiro0805/Sk8parkmap/blob/gh-pages/photo/musashinoskate.png?raw=true">]]></description>
 			<LookAt>
 				<longitude>139.5677034077043</longitude>
 				<latitude>35.71867130352714</latitude>
@@ -251,7 +251,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Skate Park MAP’S TOKYO（マップス東京）</name>
-			<description><![CDATA[<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/mapstpkyo1.png?raw=true" >]]></description>
+			<description><![CDATA[<img src = "https://github.com/takahiro0805/Sk8parkmap/blob/gh-pages/photo/mapstpkyo1.png?raw=true" >]]></description>
 			<LookAt>
 				<longitude>139.8100454199649</longitude>
 				<latitude>35.74230112443208</latitude>
@@ -269,7 +269,7 @@
 		</Placemark>
 		<Placemark>
 			<name>アメージングスクエア跡地</name>
-			<description><![CDATA[<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/ameajingskate.jpg?raw=true" >]]></description>
+			<description><![CDATA[<img src = "https://github.com/takahiro0805/Sk8parkmap/blob/gh-pages/photo/ameajingskate.jpg?raw=true" >]]></description>
 			<LookAt>
 				<longitude>139.6075000386282</longitude>
 				<latitude>35.66104735804207</latitude>
@@ -287,7 +287,7 @@
 		</Placemark>
 		<Placemark>
 			<name>宮下公園スケートパーク</name>
-			<description><![CDATA[<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/miyashitaskate.png?raw=true" >]]></description>
+			<description><![CDATA[<img src = "https://github.com/takahiro0805/Sk8parkmap/blob/gh-pages/photo/miyashitaskate.png?raw=true" >]]></description>
 			<LookAt>
 				<longitude>139.701659964261</longitude>
 				<latitude>35.66320433217348</latitude>
