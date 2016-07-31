@@ -232,24 +232,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>東京ドーム ローラースケートアリーナ</name>
-			<description><![CDATA[<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/tokyodomeskate.jpg?raw=true">]]></description>
-			<LookAt>
-				<longitude>139.7533531993703</longitude>
-				<latitude>35.70467089735072</latitude>
-				<altitude>0</altitude>
-				<heading>-3.674876490056577e-10</heading>
-				<tilt>0</tilt>
-				<range>1000.000403221248</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>139.7533776785169,35.70443240540251,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>武蔵野ストリートスポーツ広場</name>
 			<description><![CDATA[<img src ="https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/musashinoskate.png?raw=true">]]></description>
 			<LookAt>
@@ -265,42 +247,6 @@
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>139.5677087997368,35.71858235576132,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>夕凪橋際遊び場‎（ゆうなぎばしぎわあそびば）</name>
-			<description><![CDATA[<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/yuunagaibashiskate.jpg?raw=true">]]></description>
-			<LookAt>
-				<longitude>139.7502876285423</longitude>
-				<latitude>35.63911103939584</latitude>
-				<altitude>0</altitude>
-				<heading>-0.0001151731968411617</heading>
-				<tilt>29.99955992778771</tilt>
-				<range>146.1041482449355</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>139.750211791223,35.63922743300522,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>ランプハウス東京</name>
-			<description><![CDATA[	<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/ranmphousetokyo.jpg?raw=true">]]></description>
-			<LookAt>
-				<longitude>139.3413398798487</longitude>
-				<latitude>35.7650451782721</latitude>
-				<altitude>0</altitude>
-				<heading>-2.349896940873012e-06</heading>
-				<tilt>0</tilt>
-				<range>1005.355967706876</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>139.341413792877,35.76489857379481,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -355,24 +301,6 @@
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>139.7017577525062,35.66334212914895,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>祖師谷公園</name>
-			<description><![CDATA[<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/soshigayaskate.jpg?raw=true" >]]></description>
-			<LookAt>
-				<longitude>139.5993042002742</longitude>
-				<latitude>35.65429499772315</latitude>
-				<altitude>0</altitude>
-				<heading>1.59845136626312e-10</heading>
-				<tilt>0</tilt>
-				<range>1000.000458691178</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>139.5993286556515,35.65405654339153,0</coordinates>
 			</Point>
 		</Placemark>
 	</Folder>
