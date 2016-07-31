@@ -6,7 +6,7 @@
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				<href>https://github.com/takahiro0805/Sk8parkmap/blob/gh-pages/photo/i.gif?raw=true</href>
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
